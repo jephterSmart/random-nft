@@ -1,0 +1,25 @@
+{
+    "name": "nft-basic",
+    "version": "1.0.0",
+    "description": "Non Fungible Token",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "NFT",
+        "EIP722"
+    ],
+    "author": "Uzezi Jephter Oghenekaro",
+    "license": "ISC",
+    "devDependencies": {
+        "@chainlink/contracts": "^1.0.0",
+        "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+        "@openzeppelin/contracts": "^5.0.2",
+        "dotenv": "^16.4.5",
+        "hardhat": "^2.22.2"
+    },
+    "dependencies": {
+        "@pinata/sdk": "^2.1.0"
+    }
+}

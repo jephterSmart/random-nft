@@ -1,0 +1,18 @@
+{
+    "VRFCoordinatorV2MockModule": {
+        "baseFee": "2500000000000000000",
+        "gasPriceLink": "1000000000"
+    },
+    "RandomIpfsNftModule": {
+        "subscriptionId": "10421",
+        "coordinatorAddress": "0x8103B0A8A00be2DDC778e6e7eaa21791Cd364625",
+        "gasLane": "0x474e34a077df58807dbe9c96d3c009b23b3c6d0cce433e59bbf5b34f823bc56c",
+        "callbackGasLimit": "50000",
+        "dogTokenUris": [
+            "ipfs://QmTNkANZHTpGmXYE8L9B5BMzFKBeJnbhfZM8kbzoDwGqNh",
+            "ipfs://QmRQsdCtb4kroJJqgB8FAAgfKqYfhoMFWWZZSv35d1FigD",
+            "ipfs://QmaYtruJeMut8fq3paAzShKabSSeEXkUnjrrY1SZJagCSt"
+        ],
+        "minMintFee": "10000000000000000"
+    }
+}
